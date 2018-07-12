@@ -1,0 +1,23 @@
+// Place all the styles related to the todo_items controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+* {
+  font-family: monospace;
+  text-align: center;
+  margin: 0px;
+}
+
+form {
+  padding: 10px;
+}
+
+h1 {
+  font-size: 50px;
+  color: hotpink;
+}
+
+input {
+  background-color: hotpink;
+  color: white;
+}
